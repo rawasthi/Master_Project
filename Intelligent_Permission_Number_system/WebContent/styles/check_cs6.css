@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container {
+	width: auto;
+	background: #FFF;
+	padding-left: 10px;
+	padding-right: 10px;
+	overflow: hidden;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+
+#header {
+	color: #FFF;
+	background-color: #000;
+	height: 100px;
+	position: relative;
+}
+
+#left_column{
+	width: 100%;
+	background-position: left;
+	background-image: url(../images/Web_Banner_Justice_Studies_003.jpg);
+	background-repeat: no-repeat;
+	height: 90px;
+	margin: 0;
+	position:relative
+	top;800px;	
+	background-size: cover;
+	
+}
+
+.imgclass {
+	background-image: url(../images/login_button.png);
+	background-repeat: no-repeat;
+	width:80px; 
+	height:30px;
+	border:none;
+}
+
+h1 {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size: 96px;
+	margin: 0;
+	float: left;
+}
+#header a {
+	font-size: 20px;
+	font-weight: bold;
+	font-variant: small-caps;
+	color: #FFF;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	width: 100px;
+}
+#main {
+	width: auto;
+}
+#table1 {
+	width: auto;
+}
+#table2 {
+	width: auto;
+}
+#table3 {
+	width: auto;
+}
+#table1 table tr td {
+	text-align: center;
+}
+#table2 table tr td {
+	text-align: center;
+}
+#table3 table tr td {
+	text-align: center;
+}
+
+
+
+
+
+
+
+#header ul li {
+	float: left;
+}
+
+#header ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+
+
+body {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #3B3B3B;
+	background-color: #FFF;
+	margin: 0px;
+}
+#header p {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 30px;
+	font-variant: small-caps;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 15px;
+}
